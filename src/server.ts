@@ -22,5 +22,5 @@ app.register(memoriesRoutes)
 app.listen({
   port:3333,
 }).then(()=> {
-  console.log("Servidor HTTP")
+  console.log("🚀 HTTP server running on port http://localhost:3333")
 })
